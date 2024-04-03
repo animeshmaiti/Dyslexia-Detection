@@ -1,0 +1,27 @@
+.formSec{
+    max-width: 400px;
+}
+.home{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    color: #fff;
+}
+.hero{
+    max-width: 400px;
+}
+.about{
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 200px;
+}
+.about-section{
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+    height: 100vh;
+}
